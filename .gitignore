@@ -1,3 +1,4 @@
+**/*.pkl
 *.html
 *.zip
 .DS_Store
